@@ -23,7 +23,7 @@ li a {
  text-align: center;
  padding: .5em;
  font-size: 1.5em;
- font-family: Times New Roman;
+ font-family: monospace;
 }
 
 li a:hover {
